@@ -140,8 +140,8 @@ public class GUIManual extends JFrame {
         
         // Pinta y ajusta diseño del contenedor de contenidos
         pintarPanelDerecho();
-        
-        setTitle("Mundial");
+        //Se configura el tituuuuloooo 
+        setTitle("Mundial Chimba");
         pack();
         setVisible(true);
     }
